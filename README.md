@@ -57,4 +57,4 @@ Trustable Roots, Similar to Atiyah's Research
 1.402422
 1.402421
 
-current scenario's proof is 16-factored
+current scenario's proof is 47-factored
