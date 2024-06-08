@@ -58,3 +58,4 @@ Trustable Roots, Similar to Atiyah's Research
 1.402421
 
 current scenario's proof is 47-factored
+./list 47
