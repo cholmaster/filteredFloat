@@ -20,7 +20,7 @@ void t_Prime (void *arg) {
 	list * lst = rarg->lst;
 	ll key ;
 	static ll i = -1;
-	for (;size(lst) <= length;i+=2) {
+	for (;size(lst) <= length;i++) {
 		bool prflag=true;
 		ll end_Num= (ll)ceil(sqrt(i));
 		node * nd = lst -> front -> next;
