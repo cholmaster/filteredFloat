@@ -58,4 +58,5 @@ Trustable Roots, Similar to Atiyah's Research
 1.402421
 
 current scenario's proof is 47-factored
-./list 47
+
+Put argument into 47. This is minimal requirements to see every adjustment via real numbers
