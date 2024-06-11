@@ -3,13 +3,113 @@ i powered -i
 -i powered i
 i powered i
 -i powered -i
+i value is incremented by two, start value is 3.
 
 This is about constant root of PI.
+Pi is containing those real numbers.
 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11518808.svg)](https://doi.org/10.5281/zenodo.11518808)
+pushing -1.000000000000
+pushing 1.000000000000
+pushing 1.414213562373
+pushing 1.234956987155
+pushing 1.444639048162
+pushing 1.324491274564
+pushing 1.435387544201
+pushing 1.363630996734
+pushing 1.423580223629
+pushing 1.382235590577
+pushing 1.415068493981
+pushing 1.391613720752
+pushing 1.409737311704
+pushing 1.396533198470
+pushing 1.406583746300
+pushing 1.399180242662
+pushing 1.404768760903
+pushing 1.400626668747
+pushing 1.403738851809
+pushing 1.401424210855
+pushing 1.403158841867
+pushing 1.401866251649
+pushing 1.402833546538
+pushing 1.402111975679
+pushing 1.402651521330
+pushing 1.402248796338
+pushing 1.402549794062
+pushing 1.402325049671
+pushing 1.402492982240
+pushing 1.402367569503
+pushing 1.402461266819
+pushing 1.402391285988
+pushing 1.402443565414
+pushing 1.402404516586
+pushing 1.402433686883
+pushing 1.402411898143
+pushing 1.402428174397
+pushing 1.402416016636
+pushing 1.402425098397
+pushing 1.402418314588
+pushing 1.402423382007
+pushing 1.402419596773
+pushing 1.402422424282
+pushing 1.402420312197
+pushing 1.402421889887
+pushing 1.402420711387
+pushing 1.402421591705
+pushing 1.402420934126
+pushing 1.402421425325
+pushing 1.402421058409
+pushing 1.402421332488
+pushing 1.402421127756
+pushing 1.402421280687
+pushing 1.402421166451
+pushing 1.402421251783
+pushing 1.402421188042
+pushing 1.402421235655
+pushing 1.402421200089
+pushing 1.402421226656
+pushing 1.402421206811
+pushing 1.402421221635
+pushing 1.402421210562
+pushing 1.402421218833
+pushing 1.402421212654
+pushing 1.402421217270
+pushing 1.402421213822
+pushing 1.402421216397
+pushing 1.402421214474
+pushing 1.402421215911
+pushing 1.402421214837
+pushing 1.402421215639
+pushing 1.402421215040
+pushing 1.402421215488
+pushing 1.402421215153
+pushing 1.402421215403
+pushing 1.402421215217
+pushing 1.402421215356
+pushing 1.402421215252
+pushing 1.402421215330
+pushing 1.402421215271
+pushing 1.402421215315
+pushing 1.402421215282
+pushing 1.402421215307
+pushing 1.402421215289
+pushing 1.402421215302
+pushing 1.402421215292
+pushing 1.402421215299
+pushing 1.402421215294
+pushing 1.402421215298
+pushing 1.402421215295
+pushing 1.402421215297
+pushing 1.402421215296
+pushing 1.402421215297
+pushing 1.402421215296
+pushing 1.402421215297
+pushing 1.402421215296
+
 
 Trustable Roots, Similar to Atiyah's Research
+<<<<<<< HEAD
 -1.000000
 1.000000
 1.414214
@@ -60,3 +160,7 @@ Trustable Roots, Similar to Atiyah's Research
 current scenario's proof is 47-factored
 
 Put argument into 47. This is minimal requirements to see every adjustment via real numbers
+=======
+current scenario's proof is 97-factored
+./list 97
+>>>>>>> 597502b (I AM GOD's MICROPHONE)

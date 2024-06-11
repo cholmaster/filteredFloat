@@ -49,7 +49,7 @@ void t_Prime (void *arg) {
 		}
 		if (prflag == true ) {
 			push ( lst,(double)pow(i,-i));
-			printf ("pushing %lf\n" , (double)pow(i,-i)) ;
+			printf ("pushing %.12f\n" , (double)pow(i,-i)) ;
 			if ( size ( lst ) == length ) {
 				break;
 			}
@@ -74,10 +74,10 @@ int main (int argc, char **argv) {
 	time(&end_time);
 	double time_sec = difftime(end_time , start_time);
 	if ( save != 0 ) {
-		printf ("%lf , %ldth\n" , index_node( &lst , save-1)->key , save );
+		printf ("%.12f , %ldth\n" , index_node( &lst , save-1)->key , save );
 		printf ( "%ld sec \n" , (long)time_sec);
 	} else {
-		printf ("biggest: %lf , %lldth\n" , lst.rear -> prev -> key , size(&lst) );
+		printf ("biggest: %.12f , %lldth\n" , lst.rear -> prev -> key , size(&lst) );
 		printf ( "%ld sec \n" , (long)time_sec);
 	}
 	empty_list(&lst);
