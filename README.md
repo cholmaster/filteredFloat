@@ -105,7 +105,6 @@ pushing 1.402421215296
 pushing 1.402421215297
 pushing 1.402421215296
 pushing 1.402421215297
-pushing 1.402421215296
 
 
 Trustable Roots, Similar to Atiyah's Research
