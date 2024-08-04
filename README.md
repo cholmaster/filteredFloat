@@ -4,7 +4,7 @@ i powered i
 -i powered -i
 i value is incremented by two, start value is 3.
 
-This is about constant root of PI.
+This is maybe about one side of constant root of PI.
 Pi is containing those real numbers.
 
 
