@@ -101,7 +101,5 @@ Pi is containing those real numbers.
  1.402421215295
  1.402421215297
  1.402421215296
-
-Trustable Roots, Similar to Atiyah's Research
 current scenario's proof is 93-factored
 ./list 93
