@@ -1,4 +1,3 @@
-4-factored riemann-zeta function's proof
 i powered -i
 -i powered i
 i powered i
