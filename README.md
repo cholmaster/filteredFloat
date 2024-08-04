@@ -5,7 +5,7 @@ i powered i
 i value is incremented by two, start value is 3.
 
 This is maybe about one side of constant root of PI.
-Pi is containing those real numbers.
+Pi may related to those real numbers.
 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11518808.svg)](https://doi.org/10.5281/zenodo.11518808)
